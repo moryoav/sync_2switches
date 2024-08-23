@@ -1,6 +1,6 @@
 blueprint:
   name: Sync two switches
-  description: Turn on a switch when other one is turend on and vice versa
+  description: Turn on a switch when other one is turned on and vice versa
   domain: automation
   input:
     switch_entity1:
